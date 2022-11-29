@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3886b0fc9b51cc943be11be9737cb4e1, type: 3}
+  m_Name: Cerdon
+  m_EditorClassIdentifier: 
+  nom: Cerdon
+  region: Savoie
+  pays: France
+  couleur: "Ros\xE9"
+  type: Effervescent
+  age: 
+  appellation: Bugey Cerdon
+  degreAlcool: 7
+  temperatureService:
+  - 9
+  - 11
+  commentaire: C'est excellent !
